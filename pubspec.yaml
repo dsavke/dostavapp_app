@@ -1,0 +1,38 @@
+name: dostava_app
+description: Dostava project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^1.1.2
+  flutter_svg: ^0.18.0
+  firebase_database: ^6.0.0
+  provider: ^4.3.3
+  google_maps_flutter: ^0.5.33
+  geolocator: ^6.1.6
+  geocoding: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo_white.svg
+    - assets/images/logo_red.svg
+    - assets/images/menu_3_line.svg
+    - assets/images/my_location.svg
+    - assets/images/account_circle.svg
+    - assets/images/phone.svg
+    - assets/images/near_me.svg
+    - assets/images/person_pin_circle.svg

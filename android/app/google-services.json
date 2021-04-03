@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184443830329",
+    "project_id": "dostava-app-80f5e",
+    "storage_bucket": "dostava-app-80f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184443830329:android:a10585d87c8a803c690de8",
+        "android_client_info": {
+          "package_name": "com.dsavke.dostava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184443830329-frv2uvb28a33bqj5j54fmuq818pes1f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-0GPoL9yNUVrFhSPY-IBCAytX3bmVCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184443830329-frv2uvb28a33bqj5j54fmuq818pes1f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
